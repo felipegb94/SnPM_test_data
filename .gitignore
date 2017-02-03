@@ -1,0 +1,6 @@
+_ignored/
+
+batch/
+spm/
+
+*.DS_Store
